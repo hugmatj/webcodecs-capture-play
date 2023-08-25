@@ -269,7 +269,7 @@ const downloaderConfig = {
 
 ## Testing
 
-- Follow the installation instructions of [go-media-webtransport-server](https://github.com/jordicenzano/go-media-webtransport-server)
+- Follow the installation instructions of [go-media-webtransport-server](https://github.com/hugmatj/go-media-webtransport-server)
 - Clone this repo
 
 ```bash
